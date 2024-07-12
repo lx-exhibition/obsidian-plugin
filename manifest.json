@@ -1,0 +1,11 @@
+{
+	"id": "lx-plugin",
+	"name": "_lx plugin",
+	"version": "1.0.3",
+	"minAppVersion": "0.15.0",
+	"description": "lx example plugin",
+	"author": "Obsidian",
+	"authorUrl": "https://github.com/liangxiongsl",
+	"fundingUrl": "https://github.com/liangxiongsl/lx-plugin",
+	"isDesktopOnly": false
+}
